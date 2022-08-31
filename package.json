@@ -1,0 +1,12 @@
+{
+  "name": "sala-de-aula-API",
+  "version": "1.0.0",
+  "description": "projeto de aulas EAD",
+  "main": "index.js",
+  "repository": "https://github.com/daniell0l/sala-de-aula-API.git",
+  "author": "daniell0l <mail@example.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
