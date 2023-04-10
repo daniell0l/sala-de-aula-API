@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "serveless-test-382918",
+  "private_key_id": "64efe6dc8e7a7f2c882e3ab021a51f08f55f0031",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCNUZGaQKAObRhU\nnxiqzREtSlfS4HdK2+aGWdFHxxWVct4Wk+WhBxRGpevPGg7x8dp5RULlrOiujdpZ\ngPxYxKHmEL2hCqn+CGTtZoMFuJMJ/NN8sl6Tez+wBVDl19SNPIx2D4VHgGLNnunE\nB0sfhJivZMbxzUSWCsjXFsE9zza1tuoWZCnGCZhJymYCYR2PEJVGyDGxk7PlT7aI\n7MZm7eVjQ+ZlqdIiqwMiyLgXKhEZxXWtBcvEA2NmPpb+nJYEyC7hKMoF5wNYYai7\nPVLc3HFXArvkHNNawuN5c2dkuv5cvAvM9hFQN5jB6mFqgtc3dNZY+p4bl/1ZhdF8\nrvU8SYMbAgMBAAECggEAGQky5ON/F58vOMqoyZWj7eSmU3ct2ybDG9kssO0tvzjG\n7LQN8e25o1yAvsOMk0N4I5ToKZ1s6YO7A7FMw4MudX5QwgeMHzOogcBwBOLytcnD\nQ+urwrAKk+oVL2sBvnXUIpRUVdsCZhA5tN9f6TkJ/cS6VBs8A+LsOuLOoF8l/6Ih\nNCSYQlGyV2EbK6sgeWkzQg/bLIaTxh2JNVIfnUc7fzJUaRpfrXZHflUQiRWhMuSN\nE0L6G5tXTynbK2Xt+ku2Yj/NE3AylpDr4lK+mY6xLRxYLf6y9KQlneRwLGT2Hk+E\n3ibroBK4wsGr6skU5ekyFebzHyMu/JAtk7cA46e5PQKBgQDHuQUhG662X9CivuY3\nbHV+4W1kEsfFUvkLsM2IMVAZb9j+guwoUyOrSFFFfh9i6Zqy+kX6g48a2OEmb3mL\nl4CYzYlzbmHuSOLwDaqfYW3rml8AI/CSe3kh7u4FnLoNRCA0q7HvU4IuTTgDDrg5\nquED8FmSGEvbg5aZ5b3vwgqF7wKBgQC1I5L+l0iZrgO3fpCaYo4boHRdI9APO6Vi\n3k9814Dq3Xi9O78XH0q7P3Mj1eHfW2Co+J8WqQMCK/LnDlA4zU9VHwGz5eMTnEnq\nRZkeerVtRyECa9lfTanGFRNl7h+Zw9luKXCh8At84NZtCHq0rb+DGKVB/Kdmu79j\nxzdM4TZhlQKBgAsHYYwhfjVd9yR1jDr1R0u5YRQMoXF5En2dxsvFhVnSPlZXnnjf\nlnGn7az7uPn6UmudvG2IBEgEP/KiZ0DZHeXSO8vfBZNl/Poqlwh0FeDTxnk4gtlj\n7h18lzJCJFgFMg4WiR3hK6go5XXtwyiUEhbol9mkc9PsYU2gTSvHOFOLAoGAB2yD\n08djhFjrchPP3WP4qw0yd7bGCjnJl3nBDD7Q289j6W2PcWUo7O+2ylszvLHEDmjS\nLF2U7/vZIrslco6Hl9eDfFoJqn4XUXC0y9j/opDtu2msKQnH0YR/nQfbZ7PtL2Sn\nZxutfNrCLwnP7aPJW5gg/clbGwzK1U4O6Cm6ztkCgYBiqXtlelLl7tFhg2WNo/rL\nT3/eh6fJmoK/jUNNpenrkx7u0XCQQZLK/GSBRylhfuaysdJd08zoriLMZiBv3ame\nw/Zw/gS5W+doi3+fViNfoRJa+foPVjvo7UQF96UjjpSYOp1fegPiwAR1K6H7Fg1A\n14GJEKsdGBXs2AhsfWKgHg==\n-----END PRIVATE KEY-----\n",
+  "client_email": "sala-de-aula@serveless-test-382918.iam.gserviceaccount.com",
+  "client_id": "104412105983092453468",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/sala-de-aula%40serveless-test-382918.iam.gserviceaccount.com"
+}

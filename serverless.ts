@@ -1,8 +1,7 @@
-import { functions } from '@functions/config';
+import {  } from '@functions/server' 
 
 const serverlessConfiguration = {
-  service: 'sala-de-aula' in here
-  frameworkVersion: '3',
+  service: 'sala-de-aula',
   custom: {
     webpack: {
       webpackConfig: './webpack.config.js',
@@ -14,9 +13,8 @@ const serverlessConfiguration = {
     name: 'google',
     runtime: 'nodejs14',
     region: 'europe-west1',
-    project: '<your-gcp-project-id>',
+    project: 'serveless-test-382918',
   },
-  functions,
 };
 
 module.exports = serverlessConfiguration;
