@@ -9,3 +9,4 @@ node_modules
 
 # Typescript output dir
 dist
+.env

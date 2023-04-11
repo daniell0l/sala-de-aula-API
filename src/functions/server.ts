@@ -7,8 +7,10 @@ AppDataSource.initialize().then(() => {
     app.use(express.json())
 
     app.get('/', (_req, res) => {
-        return res.json({message: 'Hello world'})
+       return res.json({message: 'Hello world'})
     })
 
-    app.listen(process.env.PORT, () => console.log('server is running in http://localhost/3000/'))
+    return app.listen(process.env.PORT, () => console.log(`server is running in http://localhost:${process.env.PORT}`));
 })
+
+
