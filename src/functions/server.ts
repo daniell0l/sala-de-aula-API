@@ -10,5 +10,5 @@ AppDataSource.initialize().then(() => {
         return res.json({message: 'Hello world'})
     })
 
-    app.listen(process.env.PORT, () => console.log('server is running in http://localhost/3000'))
+    app.listen(process.env.PORT, () => console.log('server is running in http://localhost/3000/'))
 })
