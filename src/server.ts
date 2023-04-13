@@ -1,16 +1,16 @@
-import express  from 'express';
-import { AppDataSource } from "./data-source";
+import express from 'express';
+import { AppDataSource } from './data-source';
 
 AppDataSource.initialize().then(() => {
-    const app = express()
+  const app = express();
 
-    app.use(express.json())
+  app.use(express.json());
 
-    app.get('/', (_req, res) => {
-       return res.json({message: 'Hello world'})
-    })
+  app.get('/', (_req, res) => {
+    return res.json({ message: 'Hello world' });
+  });
 
-    return app.listen(process.env.PORT, () => console.log(`server is running in http://localhost:${process.env.PORT}`));
-})
-
-
+  return app.listen(process.env.PORT, () =>
+    console.log(`server is running in http://localhost:${process.env.PORT}`),
+  );
+});
